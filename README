@@ -1,0 +1,4 @@
+This is the system designed to synchronize files between different servers.
+Server-side code is in network.cpp.
+Cliend-side code in in client.cpp.
+Setup a server by start network.cpp. Then start client.cpp to connect with server and transfer files.
